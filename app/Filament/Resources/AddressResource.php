@@ -38,7 +38,8 @@ class AddressResource extends Resource
     {
         return $table
             ->columns([
-                //
+                Tables\Columns\TextColumn::make('street'),
+                Tables\Columns\TextColumn::make('city'),
             ])
             ->filters([
                 //

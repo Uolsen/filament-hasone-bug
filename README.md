@@ -7,8 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Project
+## About Project/Bug
 
-- Create a local Database
-- Migrate
-- 
+* Create a local Database
+* Migrate
+* Create Filament user 
+* Create address with filled profile (fieldset)
+    * Profile will be created but not associated/saved to Address.
