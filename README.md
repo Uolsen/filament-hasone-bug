@@ -13,4 +13,4 @@
 * Migrate
 * Create Filament user 
 * Create address with filled profile (fieldset)
-    * Profile will be created but not associated/saved to Address.
+    * Profile will be created but not associated/saved to this new address.
